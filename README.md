@@ -1,6 +1,6 @@
 # HeatCheck
 
-Real-time crowdsourced basketball court finder. Players ping their location to mark courts as active, creating live heat maps that show where games are happening right now.
+find pickup games near you
 
 ## Architecture
 
